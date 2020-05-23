@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="sekme1">Pazartesi</string>
+    <string name="sekme2">Salı</string>
+    <string name="sekme3">Çarşamba</string>
+</resources>
